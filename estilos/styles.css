@@ -15,3 +15,28 @@ main {
     box-shadow: 3xp 3xp 5px rgb(3, 95, 122) ;
     padding: 10px;
 }
+
+h1 {
+    font-size: 2em;
+    color: color-mix(in hsl shorter hue, color percentage, color percentage);
+}
+
+h2 {
+    ont-size: 1.5em;
+    color: crimson
+}
+
+img.lado {
+    float:  right;
+}
+
+a{
+    text-decoration: none;
+    font-weight: bold;
+    color: aquamarine;
+}
+
+a:hover{
+    text-decoration: underline;
+    color: blue;
+}
